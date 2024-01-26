@@ -351,3 +351,19 @@ input[type="submit"] {
 	}
 }
 
+footer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer h2 {
+    text-decoration: underline;
+}
